@@ -1,2 +1,2 @@
 # Clone
-this is a clone of amazon 
+this is a clone of amazon website
